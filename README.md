@@ -1,3 +1,8 @@
+# Logotyp subscription.pl
++ [Landing page: www.subscription.pl](https://www.subscription.pl/)
++ [Dokumentacja](https://docs.subscription.pl/)
++ [Logo.subscription.pl](https://logo.subscription.pl/)
+
 
         Font in use <a target="_blank" href="https://www.fontsquirrel.com/fonts/Sling">SlingLight</a> designed by
         <a target="_blank" href="">STAR Retrieval Systems</a>
@@ -7,19 +12,26 @@
           <a target="_blank" href="https://thenounproject.com/bravebros">Yaroslav Samoylov</a>
           
           
-          
 
-Font
-#E47402, #E7AA00
-+
+## Font
+  
+    #E47402, #E7AA00
 
-Slogan
-#000000
-+
 
-Background
-transparent
-✕
+## Background
 
-Icon
-#E47402, #E7AA00
+    transparent
+
+## Icon
+     
+    #E47402, #E7AA00
+    
+    
+## logo
+
+
+## 1
+![1/cover.png](1/cover.png)
+
+## 2
+![2/cover.png](2/cover.png)
